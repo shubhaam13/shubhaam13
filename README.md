@@ -1,126 +1,174 @@
 # SHUBHAM KUMAR&nbsp;<img src="https://github.com/shubhaam13/shubham/blob/master/Assets/Developer.gif" width="85px">
 
-[![Twitter Badge](https://img.shields.io/badge/-@Shubhaam13-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Shubhaam13)](https://twitter.com/Shubhaam13)
-[![Linkedin Badge](https://img.shields.io/badge/-shubhaam13-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhaam13/)](https://www.linkedin.com/in/shubhaam13/)
-[![Gmail Badge](https://img.shields.io/badge/-imsky004@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imsky004@gmail.com)](mailto:imsky004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shubhaam13-blue?logo=linkedin)](https://www.linkedin.com/in/shubhaam13/)
+[![Twitter](https://img.shields.io/badge/Twitter-@Shubhaam13-1DA1F2?logo=twitter)](https://twitter.com/Shubhaam13)
+[![Gmail](https://img.shields.io/badge/Gmail-imsky004@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:imsky004@gmail.com)
 
-<img align="right" alt="PC GIF" src="https://github.com/shubhaam13/shubham/blob/master/Assets/1_IRGHmiGsa16stedQvIaZfw.gif" width="320" />
-
----
-
-### <img src="https://github.com/shubhaam13/shubham/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/shubhaam13/shubham/blob/master/Assets/Earth.gif" width="24px">
-
-<p>
-  <em>
-    I am a CSE graduate from 
-    <a href="https://www.svcengg.com/"><b>Sri Venkateshwara College of Engineering</b>, Bangalore</a>.
-  </em>
-</p>
-
-<p>
-  <strong>Application Consultant @ Capgemini</strong> with ~3 years of IT experience, currently working on enterprise-scale 
-  <strong>eSignature, Cloud, and Automation platforms</strong> for <strong>Volvo Cars</strong>.
-</p>
-
-<p>
-  I specialize in building and supporting <strong>eSign solutions (Adobe Sign, DocuSign, Signicat)</strong>, 
-  automating workflows using <strong>ServiceNow, APIs, Webhooks</strong>, and managing 
-  <strong>Azure AD, SSO, and monitoring systems</strong>.
-</p>
-
-<p>
-  Actively upskilling toward a <strong>DevOps / Cloud / SRE hybrid role</strong>, with hands-on focus on 
-  <strong>Azure, CI/CD, Containers, Monitoring, and Automation</strong>.
-</p>
+<img align="right" alt="Coding GIF" src="https://github.com/shubhaam13/shubham/blob/master/Assets/1_IRGHmiGsa16stedQvIaZfw.gif" width="320"/>
 
 ---
 
-## 🧑‍💻 Current Work & Responsibilities
+### 👋 Hello World 🌍
 
-- 🚀 **eSign Developer (Digital Core)** – sole offshore developer
-- 🔐 Adobe Sign, DocuSign & Signicat integrations using APIs & Webhooks
-- ⚙️ Automated subscription & access flows via **ServiceNow**
-- 🔎 Built real-time monitoring dashboards using **ELK Stack**
-- 🔐 Managed **Azure AD groups, SSO (SAML/OAuth)** configurations
-- 📊 Developed internal tools using **PowerApps & SharePoint**
-- 🛠 Incident, change & problem management for 15+ third-party apps
-- 🌍 Working closely with global stakeholders (Sweden, USA, France)
+🎯 **Application Consultant @ Capgemini**  
+☁️ **Azure | DevOps | eSign | Automation Engineer**  
+📍 Working on enterprise platforms for **Volvo Cars**
+
+I’m a Computer Science graduate from  
+**Sri Venkateshwara College of Engineering, Bangalore** with ~3 years of IT experience.
+
+I work at the intersection of **Cloud, DevOps, and Digital Automation**, building and supporting **secure, scalable enterprise solutions** using Azure, CI/CD, Infrastructure as Code, and monitoring platforms.
+
+I am actively transitioning into a **DevOps / Cloud / SRE hybrid role**.
 
 ---
 
-## ☁️ Learning & Career Focus
+## 🧑‍💻 Current Role & Responsibilities
 
-- Azure (AZ-104 Certified)
-- DevOps & Cloud Engineering
-- CI/CD (Azure DevOps, GitHub Actions)
-- Docker & Kubernetes (AKS)
+- 🚀 eSign Developer (Adobe Sign, DocuSign, Signicat)
+- ⚙️ Automation using ServiceNow, APIs & Webhooks
+- ☁️ Azure AD, SSO (SAML / OAuth), Identity & Access Management
+- 📊 Centralized logging & monitoring using ELK Stack
+- 🧠 Incident, Change & Problem Management (ITSM)
+- 🌍 Collaborating with global teams (Sweden, USA, France)
+- 🔐 Supporting 15+ enterprise third-party applications
+
+---
+
+## 🎯 DevOps Focus Areas
+
+- Azure Cloud & Networking
+- CI/CD Pipelines (Azure DevOps, GitHub Actions)
+- Containers & Orchestration (Docker, Kubernetes)
 - Infrastructure as Code (Terraform, Bicep)
 - Monitoring & Observability (ELK, Prometheus, Grafana)
-- DevSecOps fundamentals
+- Automation & DevSecOps fundamentals
 
 ---
 
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/shubhaam13">
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shubhaam13" />
-  </a>
-</p>
+## 🏷️ DevOps & Cloud Badges
+
+![Azure](https://img.shields.io/badge/Azure-Cloud-blue?logo=microsoftazure)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-Infrastructure_as_Code-purple?logo=terraform)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-success?logo=githubactions)
+![ELK](https://img.shields.io/badge/ELK-Observability-orange?logo=elastic)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-ITSM-green?logo=servicenow)
+
+---
+
+## 🛠️ DevOps & Cloud Tech Stack
+
+### ☁️ Cloud & Infrastructure
+<table>
+  <tr valign="top">
+    <td width="25%" align="center">
+      <b>Azure</b><br><br>
+      <img height="64px" src="https://cdn.svgporn.com/logos/microsoft-azure.svg">
+    </td>
+    <td width="25%" align="center">
+      <b>Terraform</b><br><br>
+      <img height="64px" src="https://cdn.svgporn.com/logos/terraform-icon.svg">
+    </td>
+    <td width="25%" align="center">
+      <b>Kubernetes</b><br><br>
+      <img height="64px" src="https://cdn.svgporn.com/logos/kubernetes.svg">
+    </td>
+    <td width="25%" align="center">
+      <b>Docker</b><br><br>
+      <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🔁 CI/CD & Automation
+<table>
+  <tr valign="top">
+    <td width="25%" align="center">
+      <b>Azure DevOps</b><br><br>
+      <img height="64px" src="https://cdn.svgporn.com/logos/azure-devops.svg">
+    </td>
+    <td width="25%" align="center">
+      <b>GitHub Actions</b><br><br>
+      <img height="64px" src="https://cdn.svgporn.com/logos/github-actions.svg">
+    </td>
+    <td width="25%" align="center">
+      <b>Git</b><br><br>
+      <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+    </td>
+    <td width="25%" align="center">
+      <b>ServiceNow</b><br><br>
+      <img height="64px" src="https://cdn.svgporn.com/logos/servicenow.svg">
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Monitoring & Security
+<table>
+  <tr valign="top">
+    <td width="25%" align="center">
+      <b>ELK Stack</b><br><br>
+      <img height="64px" src="https://cdn.svgporn.com/logos/elastic.svg">
+    </td>
+    <td width="25%" align="center">
+      <b>Prometheus</b><br><br>
+      <img height="64px" src="https://cdn.svgporn.com/logos/prometheus.svg">
+    </td>
+    <td width="25%" align="center">
+      <b>Grafana</b><br><br>
+      <img height="64px" src="https://cdn.svgporn.com/logos/grafana.svg">
+    </td>
+    <td width="25%" align="center">
+      <b>Azure AD / SSO</b><br><br>
+      <img height="64px" src="https://cdn.svgporn.com/logos/azure-active-directory.svg">
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💻 Languages & APIs
+<table>
+  <tr valign="top">
+    <td width="25%" align="center">
+      <b>Java</b><br><br>
+      <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+    </td>
+    <td width="25%" align="center">
+      <b>JavaScript</b><br><br>
+      <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+    </td>
+    <td width="25%" align="center">
+      <b>HTML / CSS</b><br><br>
+      <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+    </td>
+    <td width="25%" align="center">
+      <b>REST APIs</b><br><br>
+      <img height="64px" src="https://cdn.svgporn.com/logos/postman.svg">
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
-![shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubhaam13&show_icons=true&hide_border=true&theme=onedark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhaam13&show_icons=true&theme=onedark&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhaam13&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## 🛠️ Tech Stack
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><b>Azure</b></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/microsoft-azure.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><b>Java</b></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><b>JavaScript</b></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><b>HTML / CSS</b></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-    </tr>
-
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><b>ServiceNow</b></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/servicenow.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><b>ELK Stack</b></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/elastic.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><b>Git</b></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><b>Docker</b></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhaam13&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=shubhaam13)
+## ☕ Support Me
+<a href="https://www.buymeacoffee.com/shubhaam13">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210">
+</a>
+
+---
+
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=shubhaam13)
